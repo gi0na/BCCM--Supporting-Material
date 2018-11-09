@@ -1,1 +1,1 @@
-# Analytical-Formulation-of-the-BCCM----Supporting-Material
+# Analytical Formulation of the BCCM -- Supporting-Material
